@@ -1,13 +1,10 @@
 {
-  "name": "Rationalization AI",
+  "name": "Dynamic Route Rationalization AI",
   "description": "Intelligent AI Navigation System featuring real-time routing, predictive traffic analysis, and smart route reasoning.",
   "requestFramePermissions": [
     "geolocation"
   ],
   "majorCapabilities": [
-    "Dynamic Route Rationalization",
-    "Intelligent AI Navigation System",
-    "Predictive Traffic Analysis",
-    "Secure Corridor Analysis"
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
   ]
 }
